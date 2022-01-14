@@ -8,7 +8,6 @@ function App() {
     //BEM
     <div className='app'>
       <div className='app__body'>
-        mern whatsapp
         {/**sidebar */}
         <Sidebar />
         {/**chat component */}
